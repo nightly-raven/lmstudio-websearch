@@ -2,6 +2,8 @@
 
 A TypeScript-based web search plugin for [LM Studio](https://lmstudio.ai/). This plugin enables local LLMs to access the live web, read page content, and perform pattern matching within web pages.
 
+<p> <a href="https://ko-fi.com/nightlyraven" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> </p>
+
 ## Features
 
 - **Live Web Search**: Query the web using DuckDuckGo (no API key required).
