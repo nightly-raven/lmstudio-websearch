@@ -1,6 +1,6 @@
 # LM Studio Web Search Plugin
 
-A TypeScript-based web search plugin for [LM Studio](https://lmstudio.ai/). This plugin enables local LLMs to access the live web, read page content, and perform pattern matching within web pages.
+A TypeScript-based web search plugin for [LM Studio](https://lmstudio.ai/). This plugin enables local LLMs to access the live web, read page content, and perform pattern matching within web pages. Install it here: https://lmstudio.ai/nightly-raven/web-search
 
 <p> <a href="https://ko-fi.com/nightlyraven" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> </p>
 
