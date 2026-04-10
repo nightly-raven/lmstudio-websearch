@@ -137,7 +137,7 @@ export function resolveContentLimit(contextSize: SearchContextSize | undefined):
             return 12_000;
         case "medium":
         default:
-            return 4_000;
+            return 6_000;
     }
 }
 
@@ -150,10 +150,10 @@ export function resolvePageSize(pageSize: number | undefined, contextSize: Searc
         case "low":
             return 3;
         case "high":
-            return 8;
+            return 9;
         case "medium":
         default:
-            return 5;
+            return 6;
     }
 }
 
